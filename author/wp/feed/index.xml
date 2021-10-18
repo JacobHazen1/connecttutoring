@@ -8,39 +8,77 @@
 	>
 
 <channel>
-	<title>wp &#8211; Connect Tutoring</title>
+	<title>Connect Tutoring &#8211; Connect Tutoring</title>
 	<atom:link href="https://connecttutoring.ca/author/wp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://connecttutoring.ca</link>
 	<description>For Students, By Students</description>
-	<lastBuildDate>Mon, 11 Jan 2021 04:46:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Oct 2021 02:48:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Potential Students</title>
-		<link>https://connecttutoring.ca/2021/01/11/potential-students/</link>
-					<comments>https://connecttutoring.ca/2021/01/11/potential-students/#respond</comments>
+		<title>What is Connect Tutoring?</title>
+		<link>https://connecttutoring.ca/2021/10/13/what-is-connect-tutoring/</link>
+					<comments>https://connecttutoring.ca/2021/10/13/what-is-connect-tutoring/#respond</comments>
 		
-		<dc:creator><![CDATA[wp]]></dc:creator>
-		<pubDate>Mon, 11 Jan 2021 04:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[Connect Tutoring]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 19:49:06 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://connecttutoring.ca/?p=13</guid>
+		<guid isPermaLink="false">https://connecttutoring.ca/?p=126</guid>
 
-					<description><![CDATA[Has your educational experience been impacted by the COVID-19 pandemic? Are you a K-12 student looking for one-on-one academic help? Our project aims to support those who cannot afford tutoring amidst the difficulty of the pandemic. If this applies to you or someone you know, please fill out the form below and we will be [&#8230;]]]></description>
+					<description><![CDATA[Connect Tutoring is a volunteer program to provide free online tutoring to K-12 students in Calgary and Edmonton. We provide tutoring to students that cannot afford or do not have access to academic support. Connect Tutoring was founded in November 2020 amidst the difficulties of the COVID-19 pandemic. To learn more about our program and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Has your educational experience been impacted by the COVID-19 pandemic? Are you a K-12 student looking for one-on-one academic help? </p>
+<p>Connect Tutoring is a volunteer program to provide free online tutoring to K-12 students in Calgary and Edmonton. We provide tutoring to students that cannot afford or do not have access to academic support.</p>
 
 
 
-<p>Our project aims to support those who cannot afford tutoring amidst the difficulty of the pandemic. If this applies to you or someone you know, please fill out the form below and we will be in touch about scheduling tutoring sessions:</p>
+<p>Connect Tutoring was founded in November 2020 amidst the difficulties of the COVID-19 pandemic. To learn more about our program and how it works, please see our program <a href="https://connecttutoring.ca/our-program/" data-type="post" target="_blank" rel="noreferrer noopener">page</a>.</p>
 
 
 
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://forms.gle/mtohbpogwkbKhXux6" target="_blank" rel="noreferrer noopener">Fill in Form</a></div>
+<h1>Connect Tutoring &#8211; Edmonton</h1>
+
+
+
+<p>Great news! Connect Tutoring recently expanded to add a team in Edmonton, Alberta. Connect Tutoring Edmonton is run by a team of university students and will be offering support to students in Edmonton.</p>
+
+
+
+<p>To learn more about the team, please check out our team <a href="https://connecttutoring.ca/the-team/" target="_blank" rel="noreferrer noopener">page</a>.</p>
+
+
+
+<h1>How can you get involved?</h1>
+
+
+
+<p>To sign-up to receive free tutoring from Connect Tutoring, please fill out our <strong>Potential Students</strong> form:</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://connecttutoring.ca/calgary/" target="_blank" rel="noreferrer noopener"> Calgary</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://connecttutoring.ca/edmonton/" target="_blank" rel="noreferrer noopener">Edmonton</a></div>
+</div>
+
+
+
+<p>To apply to be a tutor with Connect Tutoring, please fill out our <strong>Potential Tutors</strong> form:</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://connecttutoring.ca/calgary/" target="_blank" rel="noreferrer noopener">Calgary</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://connecttutoring.ca/edmonton/" target="_blank" rel="noreferrer noopener">Edmonton</a></div>
 </div>
 
 
@@ -48,37 +86,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://connecttutoring.ca/2021/01/11/potential-students/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Volunteer Opportunity</title>
-		<link>https://connecttutoring.ca/2021/01/11/volunteer-opportunity/</link>
-					<comments>https://connecttutoring.ca/2021/01/11/volunteer-opportunity/#respond</comments>
-		
-		<dc:creator><![CDATA[wp]]></dc:creator>
-		<pubDate>Mon, 11 Jan 2021 04:22:02 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://connecttutoring.ca/?p=15</guid>
-
-					<description><![CDATA[We need your help! We are recruiting volunteers to offer free online tutoring services to K-12 students who do not have access to or cannot afford academic support.]]></description>
-										<content:encoded><![CDATA[
-<p>We need your help! We are recruiting volunteers to offer free online tutoring services to K-12 students who do not have access to or cannot afford academic support.</p>
-
-
-
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://forms.gle/pF9vGKhD1Df5QF3AA" target="_blank" rel="noreferrer noopener">Apply Here</a></div>
-</div>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://connecttutoring.ca/2021/01/11/volunteer-opportunity/feed/</wfw:commentRss>
+					<wfw:commentRss>https://connecttutoring.ca/2021/10/13/what-is-connect-tutoring/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
